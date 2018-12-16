@@ -1,0 +1,28 @@
+{
+  "name": "phonenumbers",
+  "version": "0.0.1",
+  "description": "Backend for the phonenumbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satuylikoski/full-stack-open-rest.git"
+  },
+  "author": "Satu Ylikoski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satuylikoski/full-stack-open-rest/issues"
+  },
+  "homepage": "https://github.com/satuylikoski/full-stack-open-rest#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
