@@ -4,7 +4,7 @@ This is the backend side of the course
 
 ### Course parts
 
-- [x] Phone numbers: Exercises 3.1-3.6
+- [x] Phone numbers: Exercises 3.1-3.8
 
 ### Frontend
 
