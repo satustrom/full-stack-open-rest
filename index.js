@@ -17,6 +17,8 @@ morgan.token("body", function(req, res) {
 app.use(
   morgan(":method :url :status :res[content-length] - :response-time ms :body")
 );
+// Make express to show static content
+app.use(express.static("build"));
 
 // Remove all the CORS issues for now with this
 app.use(cors());
