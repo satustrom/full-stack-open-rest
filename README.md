@@ -7,6 +7,10 @@ This is the backend side of the course.
 Runs the app in the development mode.<br />
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
+### Production
+
+[https://full-stack-open-rest.herokuapp.com/](https://full-stack-open-rest.herokuapp.com/)
+
 ### Course parts
 
 - [x] Phone numbers: Exercises 3.1-3.9

@@ -29,20 +29,20 @@ app.listen(PORT, () => {
 // Initial person data
 let persons = [
   {
-    name: "Rasmus Virtanen",
-    number: "044 123 4567",
+    name: "B. Virtanen",
+    number: "040 123 4567",
     date: "2017-12-10T17:30:31.098Z",
     id: 1
   },
   {
-    name: "Satu Koivisto",
-    number: "050 333 4567",
+    name: "Matti Meikäläinen",
+    number: "040 765 4321",
     date: "2017-12-10T18:39:34.091Z",
     id: 2
   },
   {
-    name: "Kaarle Majamaa",
-    number: "040 221 1234",
+    name: "Homer Simpson",
+    number: "040 124 1234",
     date: "2017-12-10T19:20:14.298Z",
     id: 3
   }
