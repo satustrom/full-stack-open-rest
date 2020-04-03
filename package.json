@@ -1,5 +1,5 @@
 {
-  "name": "phonenumbers",
+  "name": "full-stack-open-rest",
   "version": "0.0.1",
   "description": "Backend for the phonenumbers",
   "main": "index.js",
@@ -25,6 +25,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "mongoose": "^5.9.7",
     "morgan": "^1.10.0"
   },
   "devDependencies": {

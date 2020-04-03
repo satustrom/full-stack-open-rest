@@ -13,7 +13,7 @@ Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ### Course parts
 
-- [x] Phone numbers: Exercises 3.1-3.9
+- [x] Phone numbers: Exercises 3.1-3.12
 
 ### Frontend
 
