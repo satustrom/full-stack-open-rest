@@ -13,8 +13,14 @@ Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ### Course parts
 
-- [x] Phone numbers: Exercises 3.1-3.12
+[x] Exercises 3.1-3.6: Fetching and deleting phone numbers, creating new contact to phonebook, error handling if tbe number already exists
+
+[x] Exercises 3.7-3.8: Logging with morgan
+
+[x] Exercises 3.9-3.11: Project to Heroku, generate production version of frontend
+
+[x] Exercises 3.12-3.14: Use MongoDB for phone numbers, fetch all/specific phone numbers, create new one
 
 ### Frontend
 
-- From the repository `full-stack-open` you will find frontend side for this project
+From the repository `full-stack-open` you will find frontend side for this project

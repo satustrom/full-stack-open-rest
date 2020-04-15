@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+// This is for updating mongoDB database with commandline
 if (process.argv.length < 3) {
   console.log("please give password as argument");
   process.exit();
